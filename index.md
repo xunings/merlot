@@ -102,7 +102,7 @@ end
 
 ### Large image 2
 
-![wu](./images/wu.jpg)
+![wu](./assets/images/wuyanzu2.jpg)
 
 ### Definition lists can be used with HTML syntax.
 
